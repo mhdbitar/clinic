@@ -22,24 +22,24 @@
 
 	<div class="categories">
 		<div class="cat">
-			<a href="#">
-				<img src="assets/img/cat1.jpg">	
-			</a>
+			<img src="assets/img/cat1.jpg">	
+			<h3>some text</h3>
+			<a href="#"> See details</a>
 		</div>
 		<div class="cat">
-			<a href="#">
-				<img src="assets/img/cat1.jpg">	
-			</a>
+			<img src="assets/img/cat1.jpg">	
+			<h3>some text</h3>
+			<a href="#"> See details</a>
 		</div>
 		<div class="cat">
-			<a href="#">
-				<img src="assets/img/cat1.jpg">	
-			</a>
+			<img src="assets/img/cat1.jpg">	
+			<h3>some text</h3>
+			<a href="#"> See details</a>
 		</div>
 		<div class="cat">
-			<a href="#">
-				<img src="assets/img/cat1.jpg">	
-			</a>
+			<img src="assets/img/cat1.jpg">	
+			<h3>some text</h3>
+			<a href="#"> See details</a>
 		</div>
 	</div>
 </body>
