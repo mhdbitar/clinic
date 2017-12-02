@@ -7,17 +7,40 @@
 </head>
 <body>
 	<div class="topnav" id="myTopnav">
-	  <a href="#home" class="active">Home</a>
-	  <a href="#news">News</a>
-	  <a href="#contact">Contact</a>
-	  <a href="#about">About</a>
-	  <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
+	  <a href="#" class="active">Home</a>
+	  <a href="#">News</a>
+	  <a href="#">Contact</a>
+	  <a href="#">About</a>
+	  <a href="#" class="icon" onclick="myFunction()">&#9776;</a>
 	</div>
 
 	<div class="showcase">
 		<img src="assets/img/showcase.jpg" >
 	</div>
 
-	
+	<h1 class="title">Clinics</h1>
+
+	<div class="categories">
+		<div class="cat">
+			<a href="#">
+				<img src="assets/img/cat1.jpg">	
+			</a>
+		</div>
+		<div class="cat">
+			<a href="#">
+				<img src="assets/img/cat1.jpg">	
+			</a>
+		</div>
+		<div class="cat">
+			<a href="#">
+				<img src="assets/img/cat1.jpg">	
+			</a>
+		</div>
+		<div class="cat">
+			<a href="#">
+				<img src="assets/img/cat1.jpg">	
+			</a>
+		</div>
+	</div>
 </body>
 </html>
