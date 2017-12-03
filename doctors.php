@@ -7,8 +7,8 @@
 </head>
 <body>
 	<div class="topnav" id="myTopnav">
-	  <a href="index.php" class="active">Home</a>
-	  <a href="doctors.php">Doctors</a>
+	  <a href="index.php">Home</a>
+	  <a href="doctors.php" class="active">Doctors</a>
 	  <a href="clinic.php">Clinic</a>
 	  <a href="articles.php">Articles</a>
 	</div>
@@ -30,19 +30,19 @@
 			<img src="assets/img/cat1.jpg">	
 			<h3>Heart clinic</h3>
 			<p>Gastroenterology is the official medical journal of the American Gastroenterological Association.</p>
-			<a href="detail.php"> See details</a>
+			<a href="#"> See details</a>
 		</div>
 		<div class="cat">
 			<img src="assets/img/cat3.jpg">	
 			<h3>Neurosurgery</h3>
 			<p>Gastroenterology is the official medical journal of the American Gastroenterological Association.</p>
-			<a href="detail.php"> See details</a>
+			<a href="#"> See details</a>
 		</div>
 		<div class="cat">
 			<img src="assets/img/cat4.jpg">	
 			<h3>Kids clinic</h3>
 			<p>Gastroenterology is the official medical journal of the American Gastroenterological Association.</p>
-			<a href="detail.php"> See details</a>
+			<a href="#"> See details</a>
 		</div>
 	</div>
 </body>
